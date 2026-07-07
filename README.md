@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Internal Knowledge Assistant (RAG)
 
 An internal IT/HR knowledge assistant: employees ask plain-English questions
@@ -114,3 +115,6 @@ real persistence, swap H2 for a managed Postgres instance.
 - Add authentication (JWT) so different departments only see their own documents
 - Add a feedback loop: let users mark answers as helpful/unhelpful and log it for future tuning
 - Support file uploads (PDF/Word) instead of pasted text, using a text-extraction step before chunking
+=======
+# rag_project_1
+>>>>>>> 4d5201d5ad84ea5bfbf4d5c61feb9004f7914798
