@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Internal Knowledge Assistant (RAG)
 
 An internal IT/HR knowledge assistant: employees ask plain-English questions
